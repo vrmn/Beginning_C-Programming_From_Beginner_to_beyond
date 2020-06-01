@@ -1,4 +1,5 @@
-Udemy course Beginning C++ Programming - From Beginner to Beyond
+NOTES for Udemy course Beginning C++ Programming - From Beginner to Beyond
+
 
 Why learn C++
 
@@ -38,3 +39,14 @@ Finally the object files and any libraries that our program requires must be lin
 
 This final step creates an executive file that can run.
 On windows its .exe linux and mac don't have an extension.
+
+
+Installation of code lite on ubuntu.
+
+sudo apt install build-essential
+
+g++ --version
+
+To install CodeLite go to https://wiki.codelite.org/pmwiki.php/Main/Repositories#toc1
+
+Next video configuring codelite on ubuntu linux ... 
